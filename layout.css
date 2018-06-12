@@ -1,0 +1,41 @@
+body {
+	background-color: #00000F;
+	color: #E3E0F3;
+}
+
+#answer {
+	border: none;
+	color: #525252;
+	height: 25px;
+	margin-bottom: 50px;
+	margin-right: 6px;
+	margin-top: 2px;
+	padding: 5px 0px 5px 5px;
+	width: 50%;
+	border-radius: 2px;
+	background: #DFDFDF;
+}
+
+#result {
+	color: #525252;
+	font-size: 40px;
+	padding: 40px;
+	background: #AFC3C6;
+	
+}
+
+#copy {
+	color: #525252;
+	height: 30px;
+	width: 80px;
+	border-radius: 2px;
+	background: #DFDFDF;
+	margin-bottom: 50px;
+}
+
+img {
+	border: 1px solid #DDD;
+	border-radius: 4px;
+	padding: 5px;
+	width: 150px;
+}
